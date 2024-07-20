@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HAMZAHASSAN1806
+- 👋 Hi, I’m Hamza Hassan
 - 👀 I’m interested in software engineering..
 - 🌱 I’m currently learning Artificial Intelligence Web 3.0 & Metaverse from giaic.. 
 - 💞️ I’m looking to collaborate on ...
